@@ -1,2 +1,2 @@
 # Verous Wave
-# bysiw & godmomo
+bysiw & godmomo
