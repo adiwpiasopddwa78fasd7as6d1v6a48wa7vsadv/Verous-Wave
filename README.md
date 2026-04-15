@@ -1,2 +1,2 @@
 # Verous Wave
-by siw & godmomo
+by siw & godmomo & g7lvin
